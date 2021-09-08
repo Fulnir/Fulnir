@@ -43,14 +43,9 @@ This web application is developed with the programming language "Elixir" and the
  "Marathon... if it were easy it would be called soccer"
 ```
 
-
 #### Imprint
-
 
 - Edwin Bühler
 - Op de Berg 27
 - 41849 Wassenberg
 - Germany
-- ![email](http://www.edwin-buehler.net/images/email.png)
-- Phone ![Phone](http://www.edwin-buehler.net/images/phone.png)
-- ![UstId](http://www.edwin-buehler.net/images/ustid.png)
