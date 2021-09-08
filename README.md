@@ -27,10 +27,10 @@ Specialties: Software development, MacOS X, iPhone and web applications, Smallta
 
 ## Projects
 
-### Olivand
+### Olivand `OBSOLETE`
 (Project "Olivand". Is a semantic knowledge base in the form of a web application developed in "Smalltalk". #discontiued ).
 
-### Codex Vinum
+### Codex Vinum  `OBSOLETE`
 The wine cellar software "Codex Vinum" is a web application to manage the content of a wine cellar with a computer, smartphone or tablet. 
 
 This web application is developed with the programming language "Elixir" and the web framework "Phoenix". CockroachDB" is used as the database.
@@ -46,10 +46,3 @@ This web application is developed with the programming language "Elixir" and the
 ```
  "Marathon... if it were easy it would be called soccer"
 ```
-
-#### Imprint
-
-- Edwin Bühler
-- Op de Berg 27
-- 41849 Wassenberg
-- Germany
