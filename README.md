@@ -47,7 +47,7 @@ Smalltalk developer as freelancer for public authorities and insurance companies
   <img src="https://github.com/devicons/devicon/blob/master/icons/towergit/towergit-original.svg" title="Git Tower" alt="Git Tower" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
     <a href="https://www.pivotaltracker.com">
-    <img src="https://www.pivotaltracker.com/marketing_assets/about-us/icon_logo_mod-d65be87bef189e21af291192987ec3a982a7ecedbdf82cadf823d9bd81a3b350.jpg" title="Pivotal Tracker" alt="Pivotal Tracker" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/Fulnir/Fulnir/Tracker_Icon.svg" title="Pivotal Tracker" alt="Pivotal Tracker" width="40" height="40"/>&nbsp;
   </a>
   <img src="https://github.com/Fulnir/Fulnir/Balloon.png" title="Smalltalk" alt="Smalltalk" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
@@ -59,9 +59,11 @@ Smalltalk developer as freelancer for public authorities and insurance companies
 ### :fire: My Stats :
 
 <div align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fulnir&theme=github-green-purple&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fulnir&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ---
