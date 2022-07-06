@@ -1,15 +1,13 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<div align="center">
 # Hi there 👋
-</div>
 
 - 🔭 I’m currently working on  💭❓ …
 - 🌱 I’m currently learning Swift, SwiftUI …
 - ⚡ I'm a passionate runner …
 <!--
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 **Fulnir/Fulnir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -25,6 +23,7 @@ Here are some ideas to get you started:
 -->
 
 Smalltalk developer as freelancer for public authorities and insurance companies. Smalltalk since 1993. Digitalk/V, SmalltalkAgents, SmallScript, VisualAge, Squeak, Pharo, and VisualWorks. Objective-C, Scala, Dart and Elixir. 
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/edwinbuehler/">
@@ -46,9 +45,13 @@ Smalltalk developer as freelancer for public authorities and insurance companies
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/towergit/towergit-original.svg" title="Git Tower" alt="Git Tower" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+    <a href="https://www.pivotaltracker.com">
+    <img src="https://www.pivotaltracker.com/marketing_assets/about-us/icon_logo_mod-d65be87bef189e21af291192987ec3a982a7ecedbdf82cadf823d9bd81a3b350.jpg" title="Pivotal Tracker" alt="Pivotal Tracker" width="40" height="40"/>&nbsp;
+  </a>
+  <img src="https://github.com/Fulnir/Fulnir/Balloon.png" title="Smalltalk" alt="Smalltalk" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" title="Phoenix" alt="Phoenix" width="40" height="40"/>&nbsp;
-
 </div>
 
 ---
