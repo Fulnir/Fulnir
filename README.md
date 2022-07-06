@@ -1,8 +1,9 @@
 <div id="header" align="center">
   <img src="https://github.com/Fulnir/Fulnir/blob/main/Archimedes_1024.png" width="128"/>
-</div>
 
-# Hi there 👋 I'm Edwin
+
+  # Hi there 👋 I'm Edwin
+</div>
 
 ### Independent Engineer 👨‍💻 Not with the skills of a magician🧙‍♂️, but with a lot of fun🥳 and diligence😓, I create my apps🍎.
 
