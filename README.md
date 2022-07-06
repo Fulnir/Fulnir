@@ -1,8 +1,15 @@
-# Hi there 👋
+<div id="header" align="center">
+  <img src="https://github.com/Fulnir/Fulnir/blob/main/Archimedes_1024.png" width="128"/>
+</div>
+
+# Hi there 👋 I'm Edwin
+
+### Independent Engineer 👨‍💻 Not with the skills of a magician🧙‍♂️, but with a lot of fun🥳 and diligence😓, I create my apps🍎.
 
 - 🔭 I’m currently working on  💭❓ …
 - 🌱 I’m currently learning Swift, SwiftUI …
 - ⚡ I'm a passionate runner …
+
 <!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -63,7 +70,8 @@ I have worked for a long time as a freelance Smalltalk developer for government 
 
 ---
 
-## 🏃🏻 I'm a passionate runner
+## 🏃🏻 I'm a passionate runner <img src="https://github.com/Fulnir/Fulnir/blob/main/edwin_runner.png" width="80"/>
+
 
 ```
  "If you want to run, run a mile. If you want to know a new 
