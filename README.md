@@ -38,8 +38,6 @@ I have worked for a long time as a freelance Smalltalk developer for government 
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
@@ -55,8 +53,6 @@ I have worked for a long time as a freelance Smalltalk developer for government 
 
 ---
 
-### :fire: My Stats :
-
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fulnir&theme=github-green-purple&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
@@ -67,7 +63,7 @@ I have worked for a long time as a freelance Smalltalk developer for government 
 
 ---
 
-## 🏃🏻 A passionate runner
+## 🏃🏻 I'm a passionate runner
 
 ```
  "If you want to run, run a mile. If you want to know a new 
