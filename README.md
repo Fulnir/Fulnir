@@ -1,7 +1,5 @@
 <div id="header" align="center">
   <img src="https://github.com/Fulnir/Fulnir/blob/main/Archimedes_1024.png" width="128"/>
-
-
   # Hi there 👋 I'm Edwin
 </div>
 
