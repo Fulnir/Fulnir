@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/edwinbuehler/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,10 +14,9 @@
   </a>
 </div>
 
-### Hi there 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  # Hi there 👋
 </div>
 
 - 🔭 I’m currently working on  💭❓ ... 
@@ -44,13 +43,12 @@ Smalltalk developer as freelancer for public authorities and insurance companies
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/tower-original.svg" title="Tower" alt="Tower" width="40" height="40"/>&nbsp;
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/phoenix-original.svg" title="Phoenix" alt="Phoenix" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tower/tower-original.svg" title="Tower" alt="Tower" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" title="Phoenix" alt="Phoenix" width="40" height="40"/>&nbsp;
 
 </div>
 
@@ -58,9 +56,10 @@ Smalltalk developer as freelancer for public authorities and insurance companies
 
 ### :fire: My Stats :
 
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fulnir&theme=github-green-purple&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fulnir&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ---
 
