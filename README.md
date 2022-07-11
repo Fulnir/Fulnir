@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Fulnir/Fulnir/blob/main/Archimedes_1024.png" width="128"/>
+  <img src="https://github.com/Fulnir/Fulnir/blob/main/logo_edwin_buehler.png"/>
   
   # Hi there 👋 I'm Edwin
   
@@ -84,3 +84,7 @@ I have worked for a long time as a freelance Smalltalk developer for government 
 ```
  "Marathon... if it were easy it would be called soccer"
 ```
+
+<div id="header" align="center">
+   <img src="https://github.com/Fulnir/Fulnir/blob/main/Archimedes_1024.png" width="128"/>
+</div>
