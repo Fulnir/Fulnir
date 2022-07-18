@@ -66,8 +66,8 @@ I have worked for a long time as a freelance Smalltalk developer for government 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fulnir&theme=github-green-purple&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-![GitHub Overview](https://github.com/Fulnir/github-stats/blob/master/generated/overview.svg)
-![GitHub Languages](https://github.com/Fulnir/github-stats/blob/master/generated/languages.svg)
+![GitHub Overview](https://github.com/Fulnir/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![GitHub Languages](https://github.com/Fulnir/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 </div>
 
 ---
