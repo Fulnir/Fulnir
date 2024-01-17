@@ -8,7 +8,7 @@
 
 #### Independent Engineer 👨‍💻 Not with the skills of a magician🧙‍♂️, but with a lot of fun🥳 and diligence😓, I create my apps🍎.
 
-- 🔭 I am currently working on my new application [View of Things](https://github.com/view-of-things) <img src="https://github.com/View-Of-Things/.github/blob/main/logo.png" width="32" height="32"/>
+- 🔭 I am currently working on my new application 
 - 🌱 I’m currently learning Swift, SwiftUI …
 - ⚡ I'm a passionate runner …
 
