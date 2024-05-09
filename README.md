@@ -48,16 +48,9 @@ I have worked for a long time as a freelance Smalltalk developer for government 
 ---
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/towergit/towergit-original.svg" title="Git Tower" alt="Git Tower" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-    <a href="https://www.pivotaltracker.com">
-    <img src="https://github.com/Fulnir/Fulnir/blob/main/Tracker_Icon.svg" title="Pivotal Tracker" alt="Pivotal Tracker" width="40" height="40"/>&nbsp;
-  </a>
   <img src="https://github.com/Fulnir/Fulnir/blob/main/Balloon.png" title="Smalltalk" alt="Smalltalk" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" title="Phoenix" alt="Phoenix" width="40" height="40"/>&nbsp;
 </div>
 
 ---
