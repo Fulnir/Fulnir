@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Fulnir/Fulnir/blob/main/logo_edwin_buehler.png"/>
+  <img src="https://github.com/Fulnir/Fulnir/blob/main/logo.svg"/ width="128" height="128">
   
   # Hi there 👋 I'm Edwin
   
