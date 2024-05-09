@@ -63,8 +63,10 @@ I have worked for a long time as a freelance Smalltalk developer for government 
 ---
 
 <div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fulnir&theme=github-green-purple&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+  
+Comming Soon
+  
+<img src="https://github.com/Fulnir/Fulnir/blob/main/CP-Center_128.png"/>
 
 </div>
 
