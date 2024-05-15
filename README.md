@@ -3,14 +3,15 @@
   
   # Hi there 👋 I'm Edwin
   
-  ## *ACME* - A CEO Makes Everything
 </div>
 
-#### Independent Engineer 👨‍💻 Not with the skills of a magician🧙‍♂️, but with a lot of fun🥳 and diligence😓, I create my apps🍎.
-
-- 🔭 I am currently working on my new application 
-- 🌱 I’m currently learning Swift, SwiftUI …
-- ⚡ I'm a passionate runner …
+ and an electrical engineer who worked for a while as a freelance Smalltalk developer for government agencies and insurance companies. 
+                    I have been using Smalltalk since 1993: Digitalk/V, SmalltalkAgents, SmallScript, VisualAge, Squeak (Apple Smalltalk), Pharo, and VisualWorks. 
+                    Other programming languages I've used over the years include Realbasic, Objective-C, Scala, Dart, Elixir, and Swift. And before that: Basic, Pascal, Pearl, Lisp and Assembler.
+                    <p></p>
+                    Since the previous shareware for the Mac that I developed is no longer available, this is my first app for the App Store.
+                    <p></p>
+                    The design of my programs should be aesthetic but as little design as possible.
 
 <!--
 <div id="header" align="center">
@@ -31,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I have worked for a long time as a freelance Smalltalk developer for government agencies and insurance companies. I have used Smalltalk since 1993. Digitalk/V, SmalltalkAgents, SmallScript, VisualAge, Squeak, Pharo, and VisualWorks. Other programming languages I have used over the years are Realbasic, Objective-C, Scala, Dart, Elixir, and Swift. And before that: Basic, Pascal, Pearl, Lisp, and Assembler.
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/edwinbuehler/">
