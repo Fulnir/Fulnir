@@ -9,7 +9,7 @@
                     I have been using Smalltalk since 1993: Digitalk/V, SmalltalkAgents, SmallScript, VisualAge, Squeak (Apple Smalltalk), Pharo, and VisualWorks. 
                     Other programming languages I've used over the years include Realbasic, Objective-C, Scala, Dart, Elixir, and Swift. And before that: Basic, Pascal, Pearl, Lisp and Assembler.
                 
-                    <p></p>
+         
                     The design of my programs should be aesthetic but as little design as possible.
 
 <!--
