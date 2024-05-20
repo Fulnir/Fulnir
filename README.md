@@ -32,11 +32,9 @@
 ---
 
 <div align="center">
-  
-Comming Soon
-<a href="https://changelog-publisher.app">
-<img src="https://github.com/Fulnir/Fulnir/blob/main/CP-Center_128.png"/>
-</a>
+  <a href="https://changelog-publisher.app">
+    <img src="icon_publishing_movie_black.gif"/>
+  </a>
 </div>
 
 ---
