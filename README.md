@@ -31,12 +31,21 @@
 
 ---
 
+If you develop apps for MacOS, iOS, iPadOS, or other systems, whether you use Xcode, Visual Code, Swift, SwiftUI, or any other programming language, 
+          then you will certainly also create a release notes file for changes to your software. The Changelog Publisher supports you in this.
+          This native Mac application allows you to create change notes quickly and easily and publish them in various formats.
+          
 <div align="center">
   <a href="https://changelog-publisher.app">
     <img src="icon_publishing_movie_black.gif"/>
   </a>
 </div>
 
+Create new releases and add your changes to them. You can also list the commits of your repository and transfer them to your changelog at the click of a mouse if required. 
+      You can customize or create templates for different targets. You can then export the changelog to these targets. This can be a rich text file that serves as a source for an 
+      about panel in your app, a release notes page on your website, or a text file that you want to post to your feed in X or another social media service.
+      Or you can create a WhatToTest file for TestFlight.
+      
 ---
 
 ## 🏃🏻 I'm a passionate runner <img src="https://github.com/Fulnir/Fulnir/blob/main/edwin_runner.png" width="80"/>
