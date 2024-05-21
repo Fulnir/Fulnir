@@ -45,7 +45,15 @@ Create new releases and add your changes to them. You can also list the commits 
       You can customize or create templates for different targets. You can then export the changelog to these targets. This can be a rich text file that serves as a source for an 
       about panel in your app, a release notes page on your website, or a text file that you want to post to your feed in X or another social media service.
       Or you can create a WhatToTest file for TestFlight.
-      
+
+The Beta testing program allows you to receive updates before
+              everyone else! The program gives you the opportunity to
+              participate closely with us on providing the best experience. It
+              helps us improving the overall app quality, as well as securing
+              high quality updates by checking for any issues or irregularities
+              happening in the releases.
+<a href="https://testflight.apple.com/join/4YdmtpbZ" >Join on macOS</a>
+              
 ---
 
 ## 🏃🏻 I'm a passionate runner <img src="https://github.com/Fulnir/Fulnir/blob/main/edwin_runner.png" width="80"/>
