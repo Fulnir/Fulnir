@@ -54,7 +54,7 @@ The Beta testing program allows you to receive updates before
               helps us improving the overall app quality, as well as securing
               high quality updates by checking for any issues or irregularities
               happening in the releases.
-<a href="https://testflight.apple.com/join/4YdmtpbZ" >Join on macOS</a>
+<a href="https://www.changelog-publisher.app" >Changelog-Publisher.app</a>
               
 ---
 
