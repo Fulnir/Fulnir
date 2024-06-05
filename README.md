@@ -5,11 +5,13 @@
   
 </div>
 
-   and an electrical engineer who worked for a while as a freelance Smalltalk developer for government agencies and insurance companies. 
-   I have been using Smalltalk since 1993: Digitalk/V, SmalltalkAgents, SmallScript, VisualAge, Squeak (Apple Smalltalk), Pharo, and VisualWorks. 
-   Other programming languages I've used over the years include Realbasic, Objective-C, Scala, Dart, Elixir, and Swift. And before that: Basic, Pascal, Pearl, Lisp and Assembler.
-                
-   The design of my programs should be aesthetic but as little design as possible.
+I'm an electrical engineer with extensive experience as a freelance Smalltalk developer for government agencies and insurance companies. I've been using Smalltalk since 1993, including versions such as Digitalk/V, SmalltalkAgents, SmallScript, VisualAge, Squeak (Apple Smalltalk), Pharo, and VisualWorks. Additionally, I've worked with other programming languages over the years, including Realbasic, Objective-C, Scala, Dart, Elixir, and Swift. Before that, I used Basic, Pascal, Perl, Lisp, and Assembler.
+
+I believe that program design should be aesthetic but involve as little design as possible.
+
+What else? Oh yes, I'm a passionate runner! 🏃‍♂️
+
+Work in Progress:  https://changelog-publisher.app
 
 
 <div id="badges" align="center">
