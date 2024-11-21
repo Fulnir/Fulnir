@@ -74,3 +74,7 @@ The Beta testing program allows you to receive updates before
 <div id="header" align="center">
    <img src="https://github.com/Fulnir/Fulnir/blob/main/Archimedes_1024.png" width="128"/>
 </div>
+
+  <a href="http://[fda8:5e33:72b8:1:61:371d:84f0:40be]:80">
+    x
+  </a>
