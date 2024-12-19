@@ -11,8 +11,6 @@ I believe that program design should be aesthetic but involve as little design a
 
 What else? Oh yes, I'm a passionate runner! 🏃‍♂️
 
-Work in Progress:  https://changelog-publisher.app
-
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/edwinbuehler/">
