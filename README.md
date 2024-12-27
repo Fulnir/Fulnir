@@ -52,8 +52,6 @@ A small tool to create an OmniFocus task from TODO, FIXME comments.
   </a>
 </div>
 
-
-
 ---
 
 <div align="center">
