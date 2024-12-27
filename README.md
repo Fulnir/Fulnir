@@ -25,7 +25,13 @@ What else? Oh yes, I'm a passionate runner! 🏃‍♂️
 
 A Zed.dev theme for ElixirLang Developer.
 
-### [Zed-to-OmniFocus](https://github.com/Fulnir/zed_to_omnifocus))
+### [Zed-to-OmniFocus](https://github.com/Fulnir/zed_to_omnifocus)
+
+<div id="badges" align="center">
+  <a href="https://github.com/Fulnir/zed-theme-alchemist/">
+    <img src="https://github.com/Fulnir/Fulnir/blob/main/zed_of.png" alt="Zed-to-OmniFocus"/>
+  </a>
+</div>
 
 A small tool to create an OmniFocus task from TODO, FIXME comments.
 
