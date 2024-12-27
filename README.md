@@ -11,6 +11,31 @@ I believe that program design should be aesthetic but involve as little design a
 
 What else? Oh yes, I'm a passionate runner! 🏃‍♂️
 
+---
+
+## Little Things
+
+### [Zed-Theme-Alchemist](https://github.com/Fulnir/zed-theme-alchemist/)
+
+<div id="badges" align="center">
+  <a href="https://github.com/Fulnir/zed-theme-alchemist/">
+    <img src="https://github.com/Fulnir/zed-theme-alchemist/blob/main/logo.png" alt="Zed-Theme-Alchemist"/>
+  </a>
+</div>
+
+A Zed.dev theme for ElixirLang Developer.
+
+### [Zed-to-OmniFocus](https://github.com/Fulnir/zed_to_omnifocus))
+
+A small tool to create an OmniFocus task from TODO, FIXME comments.
+
+### [ex_unit_notifier/fork](https://github.com/Fulnir/ex_unit_notifier)
+
+- A notifier to display unit test results in color in the editor. Depending on the result, parts are colored in green or red.
+- A notifier that controls philips hue lamps that light up in red or green.
+
+
+---
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/edwinbuehler/">
@@ -20,6 +45,8 @@ What else? Oh yes, I'm a passionate runner! 🏃‍♂️
     🦋
   </a>
 </div>
+
+
 
 ---
 
