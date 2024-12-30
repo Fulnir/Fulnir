@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Fulnir/Fulnir/blob/main/logo.svg" width="128" height="128"/>
+  <img src="[](https://github.com/Fulnir/Fulnir/blob/main/Alchemist-dragon.png)" />
   
   # Hi there 👋 I'm Edwin
   
