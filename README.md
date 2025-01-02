@@ -43,11 +43,10 @@ A small tool to create an OmniFocus task from TODO, FIXME comments.
 
 ---
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/edwinbuehler/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://bsky.app/profile/edwins.cloud">
+<div id="badges" align="center" >
+
+  
+  <a href="https://bsky.app/profile/edwins.cloud" style="text-decoration:none;" >
     🦋
   </a>
 </div>
@@ -55,7 +54,6 @@ A small tool to create an OmniFocus task from TODO, FIXME comments.
 ---
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Fulnir/Fulnir/blob/main/Balloon.png" title="Smalltalk" alt="Smalltalk" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
 </div>
