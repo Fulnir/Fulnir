@@ -46,7 +46,7 @@ A small tool to create an OmniFocus task from TODO, FIXME comments.
 <div id="badges" align="center" >
 
   
-  <a href="https://bsky.app/profile/edwins.cloud" style="text-decoration:none;" >
+  <a  style="text-decoration:none"  href="https://bsky.app/profile/edwins.cloud"  >
     🦋
   </a>
 </div>
