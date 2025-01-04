@@ -46,9 +46,10 @@ A small tool to create an OmniFocus task from TODO, FIXME comments.
 
 <div id="header" align="center">
   <img src="https://github.com/Fulnir/Fulnir/blob/main/viewofthings.png" />
+  ### View of Things
 </div>
 
-# 🚧 Work in progress
+#### 🚧 Work in progress
 
 ---
 
