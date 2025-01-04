@@ -40,6 +40,15 @@ A small tool to create an OmniFocus task from TODO, FIXME comments.
 - A notifier to display unit test results in color in the editor. Depending on the result, parts are colored in green or red.
 - A notifier that controls philips hue lamps that light up in red or green.
 
+---
+
+## The Big Thing
+
+<div id="header" align="center">
+  <img src="https://github.com/Fulnir/Fulnir/blob/main/viewofthings.png" />
+</div>
+
+# 🚧 Work in progress
 
 ---
 
