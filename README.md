@@ -43,15 +43,19 @@ A small tool to create an OmniFocus task from TODO, FIXME comments.
 ---
 
 ## The Big Thing
-
+### [View of Things](https://github.com/View-of-Things/)
 <div id="header" align="center">
-  <a href="https://github.com/View-of-Things/">
-  <img src="https://github.com/Fulnir/Fulnir/blob/main/viewofthings.png" />
-   <h1 color="#953ad7">View of Things</h1>
-    </a>
+    <a href="https://github.com/View-of-Things/">
+      <img src="https://github.com/Fulnir/Fulnir/blob/main/viewofthings.png" />
+   </a>
 </div>
 
-### 🚧 Work in progress
+#### 🚧 Work in progress
+<div id="header" align="center" >
+    <a href="https://github.com/View-of-Things/">
+      <img src="https://github.com/Fulnir/Fulnir/blob/main/Phoenix-Logo.png" width="128"/>
+   </a>
+</div>
 
 ---
 
