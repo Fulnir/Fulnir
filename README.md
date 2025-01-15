@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Fulnir/Fulnir/blob/main/dev-garden" />
+  <img src="https://github.com/Fulnir/Fulnir/blob/main/dev-with-phoenix.png" />
   
   # Hi there 👋 I'm Edwin
   
