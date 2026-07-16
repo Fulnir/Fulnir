@@ -13,6 +13,16 @@ What else? Oh yes, I'm a passionate runner! 🏃‍♂️
 
 ---
 
+## Rems - Rust (Home) Energy Management
+
+Project started …
+
+<div id="badges" align="center">
+  <a href="https://github.com/Fulnir/rems/">
+    <img src="https://github.com/Fulnir/rems/blob/main/logo.png" alt="REMS-LOGO"/>
+  </a>
+</div>
+
 ## Little Things
 
 ### [Zed-Theme-Alchemist](https://github.com/Fulnir/zed-theme-alchemist/)
