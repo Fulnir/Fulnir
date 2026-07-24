@@ -13,15 +13,15 @@ What else? Oh yes, I'm a passionate runner! 🏃‍♂️
 
 ---
 
-## Rems - Rust (Home) Energy Management
+## Yems - Your Energy Management System
 
 ### For Zendure SolarFlow Systems
 
 Project started …
 
 <div id="badges" align="center">
-  <a href="https://github.com/Fulnir/rems/">
-    <img src="https://github.com/Fulnir/rems/blob/main/icon.png" alt="REMS-LOGO" width="128"/>
+  <a href="https://github.com/Fulnir/yems/">
+    <img src="https://github.com/Fulnir/yems/blob/main/icon.png" alt="YEMS-LOGO" width="128"/>
   </a>
 </div>
 
